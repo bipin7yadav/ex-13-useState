@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.product {
+  background-color: aquamarine;
+  box-sizing: border-box;
+  padding: 3px 0 3px 0;
+  margin: 1.3rem;
+  border: 3px solid blue;
+}
+h1 {
+  background-color: darkgrey;
+  width: max-content;
+  text-align: center;
+  margin-left: 12rem;
+  border-radius: 5px;
+}
+span {
+  background-color: black;
+  color: white;
+  margin: 3px 0px 3px 2px;
+  border-radius: 5px;
+}
